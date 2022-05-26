@@ -1,3 +1,3 @@
 # AbrhamVsAmangoua
 
-Hello world ! we are software developers!
+Hello world ! we are software developer!
